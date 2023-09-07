@@ -1,14 +1,14 @@
 # calculator-app-py
 Calculator app in python3
 
-##How to use setup
+## How to use setup
 
 1. Install pipevn `pip install pipenv`
 2. Run `pipenv install`
 3. Run `pipenv shell`
 4. Run `python main.py`
 
-##How to use
+## How to use
 
 1. Enter first number
 2. Enter second number
