@@ -8,6 +8,8 @@ Calculator app in python3
 3. Run `pipenv shell`
 4. Run `python main.py`
 
+##How to use
+
 1. Enter first number
 2. Enter second number
 3. Enter operation( ADD, MINUS, DIVIDE, MULTIPLY)
